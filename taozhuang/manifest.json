@@ -1,0 +1,19 @@
+{
+  "id": "taozhuang",
+  "name": "额外套装",
+  "description": "额外套装,利用本地缓存和雀魂未使用的3个套装格子实现",
+  "author": "bin",
+  "version": "1.4.0",
+  "applyServer": [
+    0,
+    1,
+    2
+  ],
+  "dependencies": {},
+  "entry": "script.js",
+  "loadBeforeGame": false,
+  "preview": "preview.jpg",
+  "resourcepack": [
+    "contextMenu.css"
+  ]
+}
